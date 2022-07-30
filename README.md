@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  Hyas
+  A Mann production
 </h1>
 
 <h3 align="center">
